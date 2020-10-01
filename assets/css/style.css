@@ -179,7 +179,8 @@
     .form-section {
         width: 60%;
         height: 75%;
-        padding-top: 5rem;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
     }
     
     .contact-heading {
@@ -252,6 +253,10 @@
             padding-left: 0;
             text-align: center;
         }
+
+        .form-section {
+            width: 90%;
+            height: 90%;
     }
     /**********************************************************************Why Choose Us*/
     
