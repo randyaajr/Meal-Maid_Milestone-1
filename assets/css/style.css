@@ -1,0 +1,279 @@
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+    html,
+    body {
+        height: 100%;
+        width: 100%;
+        font-family: "Poppins", sans-serif;
+        color: #3f3f3f;
+    }
+    /**********************************************************************Nav*/
+    
+    .navbar {
+        padding: .8rem;
+    }
+    
+    .navbar-nav li {
+        padding-right: 15px;
+    }
+    
+    .nav-link {
+        font-size: 1.1em !important;
+    }
+    /**********************************************************************Carousel*/
+    
+    .carousel-inner img {
+        width: 100%;
+        height: 100%;
+        max-height: 100vh;
+    }
+    
+    .carousel-caption {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    
+    .carousel-caption h1 {
+        font-size: 500%;
+        text-transform: uppercase;
+        text-shadow: 2px 2px 20px rgb(0, 0, 0);
+    }
+    
+    .carousel-caption h3 {
+        font-size: 200%;
+        font-weight: 500;
+        text-shadow: 2px 2px 20px rgb(0, 0, 0);
+        padding-bottom: 15px;
+    }
+    /**********************************************************************button*/
+    
+    .btn-primary {
+        background-color: rgb(255, 120, 79);
+        border: 1px solid rgb(255, 120, 79);
+    }
+    
+    .btn-primary:hover {
+        background-color: #862600;
+        border: 1px solid #862600;
+    }
+    
+    .btn-outline-secondary {
+        background-color: #ffffff;
+        color: #222;
+    }
+    /**********************************************************************Padding*/
+    
+    .padding {
+        padding-bottom: 4rem;
+    }
+    
+    .lg-pad {
+        padding-left: 4rem;
+        padding-bottom: 2rem;
+    }
+    /**********************************************************************Welcome*/
+    
+    .welcome {
+        width: 75%;
+        margin: 0 auto;
+        padding-top: 5rem;
+        padding-bottom: 4rem;
+    }
+    
+    .welcome-main {
+        background-color: rgb(255, 120, 79);
+    }
+    
+    .welcome hr {
+        border-top: 4px solid #3f3f3f;
+        width: 95%;
+        margin-top: .3rem;
+        margin-bottom: 1rem;
+    }
+    /**********************************************************************Font Benifits*/
+    
+    .benifits {
+        padding-top: 4rem;
+    }
+    /**********************************************************************Font awesome*/
+    
+    .fa-carrot {
+        color: rgb(255, 120, 79);
+    }
+    
+    .fa-check {
+        color: rgb(0, 255, 0);
+    }
+    
+    .fa-truck {
+        color: rgb(0, 0, 0);
+    }
+    
+    .fa-money-bill-wave {
+        color: rgb(0, 0, 0);
+    }
+    
+    .fa-hand-sparkles {
+        color: rgb(0, 0, 0);
+    }
+    
+    .fa-gift {
+        color: rgb(0, 0, 0);
+    }
+    
+    .fa-gift,
+    .fa-hand-sparkles,
+    .fa-money-bill-wave,
+    .fa-carrot,
+    .fa-check,
+    .fa-truck {
+        font-size: 4rem;
+        margin: 1rem;
+    }
+    /**********************************************************************Cards*/
+    
+    .card {
+        background-color: rgb(255, 120, 79);
+    }
+    /**********************************************************************Footer*/
+    
+    footer {
+        background-color: #3f3f3f;
+        color: #d5d5d5;
+        padding-top: 2rem;
+    }
+    
+    hr.light {
+        border-top: 1px solid #d5d5d5;
+        width: 75%;
+        margin-top: .8rem;
+        margin-bottom: 1rem;
+    }
+    
+    footer a {
+        color: #d5d5d5;
+    }
+    
+    hr.light-bottom {
+        border-top: 1px solid #d5d5d5;
+        width: 100%;
+        margin-top: .8rem;
+        margin-bottom: 1rem;
+    }
+    
+    .footer-bottom {
+        margin-top: 2rem;
+    }
+    /**********************************************************************Form*/
+    
+    .form-section-01 {
+        background-color: rgba(247, 188, 170, 0.247);
+        border-radius: 20px;
+    }
+    
+    .form-section {
+        width: 60%;
+        height: 75%;
+        padding-top: 5rem;
+    }
+    
+    .contact-heading {
+        font-family: "Exo", sans-serif;
+        font-weight: 300;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    
+    .center-form {
+        padding-top: 10px;
+        margin: 0 auto;
+        max-width: 70%;
+        max-height: 70%;
+    }
+    
+    button[type="submit"] {
+        margin-top: 15px;
+        margin-bottom: 20px;
+        color: #fafafa;
+        background-color: rgb(255, 120, 79);
+    }
+    /**********************************************************************Media Querries*/
+    
+    @media(max-width: 768px) {
+        .carousel-caption {
+            top: 45%;
+        }
+        .carousel-caption h1 {
+            font-size: 350%;
+        }
+        .carousel-caption h3 {
+            font-size: 140%;
+            font-weight: 400;
+            padding-bottom: .2rem;
+        }
+        .carousel-caption .btn {
+            font-size: 95%;
+            padding: 8px 14px;
+        }
+        .display-4 {
+            font-size: 200%;
+        }
+        .card {
+            margin-bottom: 4rem;
+            font-size: 75%;
+        }
+    }
+    
+    @media(max-width: 576px) {
+        .carousel-caption {
+            top: 40%;
+        }
+        .carousel-caption h1 {
+            font-size: 250%;
+        }
+        .carousel-caption h3 {
+            font-size: 110%;
+            font-weight: 400;
+            padding-bottom: .2rem;
+        }
+        .carousel-caption .btn {
+            font-size: 90%;
+            padding: 4px 8px;
+        }
+        .display-4 {
+            font-size: 160%;
+        }
+        .lg-pad {
+            padding-left: 0;
+            text-align: center;
+        }
+    }
+    /**********************************************************************Why Choose Us*/
+    
+    .why {
+        text-transform: uppercase;
+        background-color: rgb(255, 120, 79);
+        font-size: 200%;
+        font-weight: 500;
+        color: #fafafa;
+        text-shadow: 2px 2px 20px rgb(0, 0, 0);
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 5rem;
+        padding-bottom: 7rem;
+        position: relative;
+    }
+    
+    .text-02,
+    h3 p {
+        color: #3f3f3f;
+        width: 75%;
+        margin: 0 auto;
+        padding-top: 5rem;
+        padding-bottom: 4rem;
+    }
+    
+    .us-heading {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }

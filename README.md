@@ -1,41 +1,34 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Meal Maid
 
-Welcome USER_NAME,
+Meal Maid is Toronto's #1 meal kit kit service. Made fresh and affordable!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## Built With
+This section lists the frameworks I used to built this project.
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [Bootstrap](https://getbootstrap.com)
+* [Google Fonts](https://fonts.google.com/)
 
-## Gitpod Reminders
+## UX/UI
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+<img src="assets/img/Meal-Maid.PNG" style="margin: 0;">
 
-`python3 -m http.server`
+All photos were edited using Gimp. Trail and error made for an eye catching color scheme throughout the website.
+I spent time researching human psychology in regards to decision making and impulse purchasing. Taking this new found information into effect
+I made sure to place many call to action sections. All images are property of Unplash.com
 
-A blue button should appear to click: *Make Public*,
+## Usage
 
-Another blue button should appear to click: *Open Browser*.
+This project is downloadabe. If you would like to download this repo for personal use, feel free. Steps below
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+1. Click the green "Code" button above the file section.
+2. Click "Download Zip".
+3. Open your downloads file and extract.
+4. You set!
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+## Acknowledgements
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+* [Code Institute](https://codeinstitute.net/)
+* [Canadian Business College](https://canadianbusinesscollege.com/)
+* [Unplash](https://unsplash.com/)
