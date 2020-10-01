@@ -1,0 +1,1 @@
+//Here is where I'll place some jquery animate effects
