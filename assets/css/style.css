@@ -61,7 +61,7 @@
         background-color: #ffffff;
         color: #222;
     }
-
+    
     .btn-primary a {
         text-decoration: none;
         color: #fafafa;
@@ -178,9 +178,8 @@
     
     .form-section {
         width: 60%;
-        height: 75%;
-        margin-top: 5rem;
-        margin-bottom: 5rem;
+        height: auto;
+        margin-top: 4rem;
     }
     
     .contact-heading {
@@ -253,10 +252,10 @@
             padding-left: 0;
             text-align: center;
         }
-
         .form-section {
             width: 90%;
-            height: 90%;
+            height: auto;
+        }
     }
     /**********************************************************************Why Choose Us*/
     
