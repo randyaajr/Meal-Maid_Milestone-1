@@ -1,6 +1,6 @@
 # Meal Maid
 
-Meal Maid is Toronto's #1 meal kit kit service. Made fresh and affordable!
+Meal Maid is Eastern Canada's #1 meal kit service. Made fresh and affordable!
 
 ## Built With
 This section lists the frameworks I used to built this project.
