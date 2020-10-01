@@ -61,6 +61,11 @@
         background-color: #ffffff;
         color: #222;
     }
+
+    .btn-primary a {
+        text-decoration: none;
+        color: #fafafa;
+    }
     /**********************************************************************Padding*/
     
     .padding {
