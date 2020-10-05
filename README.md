@@ -7,6 +7,7 @@ This section lists the frameworks I used to built this project.
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 * [Bootstrap](https://getbootstrap.com)
+* [jQuery](https://jquery.com/)
 * [Google Fonts](https://fonts.google.com/)
 
 ## UX/UI
