@@ -24,6 +24,6 @@ $(document).ready(function() {
     });
 
     $("#b-card-3").mouseleave(function() {
-        $("#card-3, #card-title-3").fadeTo(1000, 1).css("color", "#3f3f3f")
+        $("#card-3, #card-title-3").fadeTo(1000, 1).css("color", "#3f3f3f");
     });
 });
