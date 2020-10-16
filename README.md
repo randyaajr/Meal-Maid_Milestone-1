@@ -3,12 +3,12 @@
 -----------
 
 
-Meal Maid is Eastern Canada's #1 meal kit service. Made fresh and affordable!
+**Meal Maid is Eastern Canada's #1 meal kit service. Made fresh and affordable!**
 
 ## Project Discription
 This project follows a basic web format. Bootstrap is everywhere nowadays, and you may feel as though you have been here (to this site) before. The functionality is very easy to use. Bootstraps nav bar really makes for a smooth transition from page to page. The site is responsive and has media queries for little touchups when viewed from a handheld devices. Colors are softened for user eye protection. I have added some jQuery to the card section on the index page as i felt the effect may be enticing to users.
 
-Meal Maid was created by me (Copyright pending) ;)
+*Meal Maid was created by me (Copyright pending) ;)*
 
 ## Project Details 
 1. **Build a static front end project Using the following languages**  <br/>
