@@ -9,18 +9,18 @@ Meal Maid was created by me (Copyright pending) ;)
 
 ## Project Details 
 1. Build a static front end project Using the following languages
-    * HTML5
-    * CSS3
-    * Bootstrap
+    - HTML5
+    - CSS3
+    - Bootstrap
 2. Information Architecture
-    * 3 Pages
-    * Nav menu using Bootstrap
+    - 3 Pages
+    - Nav menu using Bootstrap
 3. Documentation
-    * README.md file (Explaining what the site is for and what value it provides to the user)
+    - README.md file (Explaining what the site is for and what value it provides to the user)
 4. Version Control
-    * Git & GitHub
+    - Git & GitHub
 5. Deployment
-    * Deploy final version to GitHub pages
+    - Deploy final version to GitHub pages
 
 ## Built With
 This section lists the frameworks I used to built this project.
