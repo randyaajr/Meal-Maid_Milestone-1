@@ -11,18 +11,18 @@ This project follows a basic web format. Bootstrap is everywhere nowadays, and y
 Meal Maid was created by me (Copyright pending) ;)
 
 ## Project Details 
-1. Build a static front end project Using the following languages
+1. Build a static front end project Using the following languages  <br/>
     [x] HTML5
     [x] CSS3
     [x] Bootstrap
-2. Information Architecture
+2. Information Architecture  <br/>
     [x] 3 Pages
-    [x] Nav menu using Bootstrap
-3. Documentation
+    [x] Nav menu using Bootstrap  
+3. Documentation  <br/>
     [x] README.md file (Explaining what the site is for and what value it provides to the user)
-4. Version Control
-    [x] Git & GitHub
-5. Deployment
+4. Version Control  <br/>
+    [x] Git & GitHub  
+5. Deployment  <br/>
     [x] Deploy final version to GitHub pages
 
 ## Built With
