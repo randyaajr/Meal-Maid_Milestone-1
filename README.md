@@ -12,11 +12,11 @@ Meal Maid was created by me (Copyright pending) ;)
 
 ## Project Details 
 1. Build a static front end project Using the following languages  <br/>
-    [x] HTML5
-    [x] CSS3
+    [x] HTML5  <br/>
+    [x] CSS3  <br/>
     [x] Bootstrap
 2. Information Architecture  <br/>
-    [x] 3 Pages
+    [x] 3 Pages  <br/>
     [x] Nav menu using Bootstrap  
 3. Documentation  <br/>
     [x] README.md file (Explaining what the site is for and what value it provides to the user)
