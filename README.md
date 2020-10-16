@@ -11,18 +11,18 @@ This project follows a basic web format. Bootstrap is everywhere nowadays, and y
 Meal Maid was created by me (Copyright pending) ;)
 
 ## Project Details 
-1. Build a static front end project Using the following languages  <br/>
+1. **Build a static front end project Using the following languages**  <br/>
     - [x] *HTML5*  <br/>
     - [x] *CSS3*  <br/>
     - [x] *Bootstrap*
-2. Information Architecture  <br/>
+2. **Information Architecture**  <br/>
     - [x] *3 Pages*  <br/>
     - [x] *Nav menu using Bootstrap*  
-3. Documentation  <br/>
+3. **Documentation**  <br/>
     - [x] *README.md file (Explaining what the site is for and what value it provides to the user)*
-4. Version Control  <br/>
+4. **Version Control**  <br/>
     - [x] *Git & GitHub*  
-5. Deployment  <br/>
+5. **Deployment**  <br/>
     - [x] *Deploy final version to GitHub pages*
 
 ## Built With
@@ -44,7 +44,7 @@ I made sure to place many call to action sections. All images are property of Un
 
 ## Usage
 
-This project is downloadabe. If you would like to download this repo for personal use, feel free. Steps below:
+**This project is downloadabe. If you would like to download this repo for personal use, feel free. Steps below:**
 
 1. Click the green "Code" button above the file section.
 2. Click "Download Zip".
