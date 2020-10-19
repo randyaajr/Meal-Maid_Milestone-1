@@ -49,7 +49,7 @@ I made sure to place many call to action sections. All images are property of Un
 1. Click the green "Code" button above the file section.
 2. Click "Download Zip".
 3. Open your downloads file and extract.
-4. You set!
+4. You're set!
 
 
 ## Acknowledgements
