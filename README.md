@@ -26,7 +26,7 @@ This project follows a basic web format. Bootstrap is everywhere nowadays, and y
     - [x] *Deploy final version to GitHub pages*
 
 ## Built With
-This section lists the frameworks I used to built this project.
+This section lists the languages/frameworks I used to built this project.
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 * [Bootstrap](https://getbootstrap.com)
